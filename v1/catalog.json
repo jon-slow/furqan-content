@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "packs": [
+    {
+      "id": "en-yusuf-ali",
+      "kind": "translation",
+      "language": "en",
+      "name": "Yusuf Ali",
+      "author": "Abdullah Yusuf Ali",
+      "license": "1934 original is public domain in life+70 countries (d. 1953); US protection may run to 2030. Confirm the edition is the unrevised original.",
+      "status": "confirm",
+      "version": 1,
+      "file": "en-yusuf-ali.v1.db.gz",
+      "size": 718509,
+      "sha256": "b9bb5b6a8e8281b0b97bfa7ab93da8b4a67eb338fffe6ada25d5f902e7fd1726"
+    },
+    {
+      "id": "ar-ibn-kathir",
+      "kind": "tafsir",
+      "language": "ar",
+      "name": "تفسير ابن كثير",
+      "author": "Ibn Kathir",
+      "license": "Classical work (d. 1373), public domain; confirm the digital edition carries no restrictions.",
+      "status": "confirm",
+      "version": 1,
+      "file": "ar-ibn-kathir.v1.db.gz",
+      "size": 4003811,
+      "sha256": "6a01e8e01048eeb2c5a36f490e3fba4ab60da74f8e54a10da9d772b7b5a6f7cd"
+    },
+    {
+      "id": "ar-tabari",
+      "kind": "tafsir",
+      "language": "ar",
+      "name": "تفسير الطبري",
+      "author": "al-Tabari",
+      "license": "Classical work (d. 923), public domain; confirm the digital edition.",
+      "status": "confirm",
+      "version": 1,
+      "file": "ar-tabari.v1.db.gz",
+      "size": 8791999,
+      "sha256": "4b34b6c90ba60609d574b54503e853b2acce666294a232f7c1e8a69a558f5a7c"
+    },
+    {
+      "id": "ar-qurtubi",
+      "kind": "tafsir",
+      "language": "ar",
+      "name": "تفسير القرطبي",
+      "author": "al-Qurtubi",
+      "license": "Classical work (d. 1273), public domain; confirm the digital edition.",
+      "status": "confirm",
+      "version": 1,
+      "file": "ar-qurtubi.v1.db.gz",
+      "size": 5283531,
+      "sha256": "ada2308be7bf6279e6d8c7659330e9789b76cdec13aada269085a9ae9371b444"
+    },
+    {
+      "id": "ar-baghawi",
+      "kind": "tafsir",
+      "language": "ar",
+      "name": "تفسير البغوي",
+      "author": "al-Baghawi",
+      "license": "Classical work (d. 1122), public domain; confirm the digital edition.",
+      "status": "confirm",
+      "version": 1,
+      "file": "ar-baghawi.v1.db.gz",
+      "size": 2260473,
+      "sha256": "e585d9902b70a836f030e89347ec7cb79cc1d90efe45cc349d5e60f3b1f48bfe"
+    }
+  ]
+}
