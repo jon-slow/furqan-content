@@ -11,6 +11,7 @@ here. See `docs/licenses.md` in the app repository.
 | Pack | Kind | Language | Author | License / notes |
 |---|---|---|---|---|
 | Yusuf Ali | translation | en | Abdullah Yusuf Ali | 1934 original is public domain in life+70 countries (d. 1953); US protection may run to 2030. Confirm the edition is the unrevised original. |
+| تفسير الجلالين | tafsir | ar | جلال الدين المحلي وجلال الدين السيوطي | Classical work (al-Mahalli d. 1459, al-Suyuti d. 1505), public domain; Tanzil's digital copy is free for non-commercial use with credit (tanzil.net). |
 | تفسير ابن كثير | tafsir | ar | Ibn Kathir | Classical work (d. 1373), public domain; confirm the digital edition carries no restrictions. |
 | تفسير الطبري | tafsir | ar | al-Tabari | Classical work (d. 923), public domain; confirm the digital edition. |
 | تفسير القرطبي | tafsir | ar | al-Qurtubi | Classical work (d. 1273), public domain; confirm the digital edition. |

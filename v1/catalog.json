@@ -15,6 +15,19 @@
       "sha256": "b9bb5b6a8e8281b0b97bfa7ab93da8b4a67eb338fffe6ada25d5f902e7fd1726"
     },
     {
+      "id": "ar-jalalayn",
+      "kind": "tafsir",
+      "language": "ar",
+      "name": "تفسير الجلالين",
+      "author": "جلال الدين المحلي وجلال الدين السيوطي",
+      "license": "Classical work (al-Mahalli d. 1459, al-Suyuti d. 1505), public domain; Tanzil's digital copy is free for non-commercial use with credit (tanzil.net).",
+      "status": "confirm",
+      "version": 1,
+      "file": "ar-jalalayn.v1.db.gz",
+      "size": 688630,
+      "sha256": "9b81fcb28824efe62f5b879df4a82674c4e3d6c531721fbf5a42bc6cd5986cb3"
+    },
+    {
       "id": "ar-ibn-kathir",
       "kind": "tafsir",
       "language": "ar",
